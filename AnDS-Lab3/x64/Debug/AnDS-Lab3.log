@@ -1,0 +1,7 @@
+﻿  AnDS-Lab3.cpp
+D:\Study\AnDS\AnDS-Lab3\AnDS-Lab3\AnDS-Lab3.cpp(189,23): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  AnDS-Lab3.vcxproj -> D:\Study\AnDS\AnDS-Lab3\x64\Debug\AnDS-Lab3.exe
